@@ -31,47 +31,415 @@ There is no final exam.
 
 For undergraduate Students: 10% Bonus will be given for undergraduate students following graduate assignments.
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Homework | 50% |
-| Two Midterms | 25% each 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework
+{{< tdclose >}}
+{{< tdopen >}}
+50%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Two Midterms
+{{< tdclose >}}
+{{< tdopen >}}
+25% each
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 For graduate Students:
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Homework | 40% |
-| Two Midterms | 25% each |
-| Final Project | 10% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Two Midterms
+{{< tdclose >}}
+{{< tdopen >}}
+25% each
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Project
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Calendar
 --------
 
-| LEC # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Intro to Nanotechnology and Nanoscale Transport Phenomena | &nbsp; |
-| 2 | Characteristic Time and Length, Simple Kinetic Theory | &nbsp; |
-| 3 | Schrödinger Equation and Material Waves | &nbsp; |
-| 4 | Solution of Schrödinger Equation, Energy Quantization | &nbsp; |
-| 5 | Electronic Levels in One-Dimensional Lattice Chain | Homework 1 due |
-| 6 | Crystal Bonding and Electronic Energy Levels in Crystals | &nbsp; |
-| 7 | Phonon Energy Levels in Crystal and Crystal Structures | Homework 2 due |
-| 8 | Density of States and Statistical Distributions | &nbsp; |
-| 9 | Specific Heat and Planck’s Law | Homework 3 due |
-| 10 | Fundamental of Statistical Thermodynamics | &nbsp; |
-| 11 | Energy Transfer by Waves: Plane Waves | Homework 4 due |
-| 12 | Electromagnetic Waves: Reflection at a Single Interface | &nbsp; |
-| 13 | EM Wave Propagation Through Thin Films and Multilayers | Homework 5 due |
-| 14 | Wave Phenomena and Landauer Formalism | &nbsp; |
-| &nbsp; | Midterm 1 | Homework 6 due |
-| 15 | Particle Description, Liouville and Boltzmann Equations | &nbsp; |
-| 16 | Fermi Golden Rule and Relaxation Time Approximation | &nbsp; |
-| 17 | Solutions to Boltzmann Equation: Diffusion Laws | Homework 7 due |
-| 18 | Electron Transport and Thermoelectric Effects | &nbsp; |
-| 19 | Classical Size Effects, Parallel Direction | Homework 8 due |
-| 20 | Classical Size Effects, Perpendicular Direction | &nbsp; |
-| 21 | Slip Condition, Coupled Energy Transport and Conversion | Homework 9 due |
-| 22 | PN junction, Diode and Photovoltaic Cells | Take-home midterm 2 out |
-| 23 | Liquids: Brownian Motion and Forces in Liquids | Take-home midterm 2 due in class |
-| 24 | Electrical Double Layer, Size Effects in Phase Change | &nbsp; |
-| 25 | Statistical Foundation for Molecular Dynamics Simulation | Final project report due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Intro to Nanotechnology and Nanoscale Transport Phenomena
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Characteristic Time and Length, Simple Kinetic Theory
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Schrödinger Equation and Material Waves
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Solution of Schrödinger Equation, Energy Quantization
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Electronic Levels in One-Dimensional Lattice Chain
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Crystal Bonding and Electronic Energy Levels in Crystals
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Phonon Energy Levels in Crystal and Crystal Structures
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Density of States and Statistical Distributions
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Specific Heat and Planck’s Law
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Fundamental of Statistical Thermodynamics
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Energy Transfer by Waves: Plane Waves
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 4 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Electromagnetic Waves: Reflection at a Single Interface
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+EM Wave Propagation Through Thin Films and Multilayers
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 5 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Wave Phenomena and Landauer Formalism
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Midterm 1
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 6 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Particle Description, Liouville and Boltzmann Equations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Fermi Golden Rule and Relaxation Time Approximation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Solutions to Boltzmann Equation: Diffusion Laws
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 7 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Electron Transport and Thermoelectric Effects
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Classical Size Effects, Parallel Direction
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 8 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Classical Size Effects, Perpendicular Direction
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Slip Condition, Coupled Energy Transport and Conversion
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 9 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+PN junction, Diode and Photovoltaic Cells
+{{< tdclose >}}
+{{< tdopen >}}
+Take-home midterm 2 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Liquids: Brownian Motion and Forces in Liquids
+{{< tdclose >}}
+{{< tdopen >}}
+Take-home midterm 2 due in class
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Electrical Double Layer, Size Effects in Phase Change
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Statistical Foundation for Molecular Dynamics Simulation
+{{< tdclose >}}
+{{< tdopen >}}
+Final project report due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

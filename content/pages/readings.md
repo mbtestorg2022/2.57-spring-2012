@@ -13,33 +13,324 @@ Course Textbook
 
 Chen, Gang. _Nanoscale Energy Transport and Conversion: A Parallel Treatment of Electrons, Molecules, Phonons, and Photons._ Oxford University Press, 2005. ISBN: 9780195159424. \[Preview with [Google Books](http://books.google.com/books?id=M3n3lUJpYDYC&printsec=frontcover)\]
 
-| LEC # | TOPICS | REFERENCES |
-| --- | --- | --- |
-| 1 | Intro to Nanotechnology and Nanoscale Transport Phenomena | Chapter 1 |
-| 2 | Characteristic Time and Length, Simple Kinetic Theory | Chapter 1 |
-| 3 | Schrödinger Equation and Material Waves | Chapter 2 |
-| 4 | Solution of Schrödinger Equation, Energy Quantization | Chapter 2 |
-| 5 | Electronic Levels in One-Dimensional Lattice Chain | Chapter 3 |
-| 6 | Crystal Bonding and Electronic Energy Levels in Crystals | Chapter 3 |
-| 7 | Phonon Energy Levels in Crystal and Crystal Structures | Chapter 3 |
-| 8 | Density of States and Statistical Distributions | Chapter 3-4 |
-| 9 | Specific Heat and Planck’s Law | Chapter 4 |
-| 10 | Fundamental of Statistical Thermodynamics | Chapter 4 |
-| 11 | Energy Transfer by Waves: Plane Waves | Chapter 5 |
-| 12 | Electromagnetic Waves: Reflection at a Single Interface | Chapter 5 |
-| 13 | EM Wave Propagation Through Thin Films and Multilayers | Chapter 5 |
-| 14 | Wave Phenomena and Landauer Formalism | Chapters 5–6 |
-| 15 | Particle Description, Liouville and Boltzmann Equations | Chapter 6 |
-| 16 | Fermi Golden Rule and Relaxation Time Approximation | Chapter 6 |
-| 17 | Solutions to Boltzmann Equation: Diffusion Laws | Chapter 6 |
-| 18 | Electron Transport and Thermoelectric Effects | Chapter 6 |
-| 19 | Classical Size Effects, Parallel Direction | Chapter 7 |
-| 20 | Classical Size Effects, Perpendicular Direction | Chapter 7 |
-| 21 | Slip Condition, Coupled Energy Transport and Conversion | Chapter 7-8 |
-| 22 | PN junction, Diode and Photovoltaic Cells | Chapter 8 |
-| 23 | Liquids: Brownian Motion and Forces in Liquids | Chapter 9 |
-| 24 | Electrical Double Layer, Size Effects in Phase Change | Chapter 9 |
-| 25 | Statistical Foundation for Molecular Dynamics Simulation | Chapter 10 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+REFERENCES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Intro to Nanotechnology and Nanoscale Transport Phenomena
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Characteristic Time and Length, Simple Kinetic Theory
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Schrödinger Equation and Material Waves
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Solution of Schrödinger Equation, Energy Quantization
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Electronic Levels in One-Dimensional Lattice Chain
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Crystal Bonding and Electronic Energy Levels in Crystals
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Phonon Energy Levels in Crystal and Crystal Structures
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Density of States and Statistical Distributions
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 3-4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Specific Heat and Planck’s Law
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Fundamental of Statistical Thermodynamics
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Energy Transfer by Waves: Plane Waves
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Electromagnetic Waves: Reflection at a Single Interface
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+EM Wave Propagation Through Thin Films and Multilayers
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Wave Phenomena and Landauer Formalism
+{{< tdclose >}}
+{{< tdopen >}}
+Chapters 5–6
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Particle Description, Liouville and Boltzmann Equations
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 6
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Fermi Golden Rule and Relaxation Time Approximation
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 6
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Solutions to Boltzmann Equation: Diffusion Laws
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 6
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Electron Transport and Thermoelectric Effects
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 6
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Classical Size Effects, Parallel Direction
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 7
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Classical Size Effects, Perpendicular Direction
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 7
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Slip Condition, Coupled Energy Transport and Conversion
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 7-8
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+PN junction, Diode and Photovoltaic Cells
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 8
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Liquids: Brownian Motion and Forces in Liquids
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 9
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Electrical Double Layer, Size Effects in Phase Change
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 9
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Statistical Foundation for Molecular Dynamics Simulation
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 10
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 {{< anchor "Recommended" >}}{{< /anchor >}}Recommended Books
 ------------------------------------------------------------
